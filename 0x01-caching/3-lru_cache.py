@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Least Recently Used caching module.
+"""A class LRUCache to inherits  BaseCaching and is a caching system.
 """
 from collections import OrderedDict
 
